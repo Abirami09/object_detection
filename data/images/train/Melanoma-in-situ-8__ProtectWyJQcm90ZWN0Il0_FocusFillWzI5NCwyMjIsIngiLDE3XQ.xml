@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mel</folder>
+	<filename>Melanoma-in-situ-8__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDE3XQ.jpg</filename>
+	<path>C:\Users\Admin\Desktop\mel\Melanoma-in-situ-8__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDE3XQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>55</ymin>
+			<xmax>208</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

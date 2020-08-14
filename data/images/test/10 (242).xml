@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>eczema</folder>
+	<filename>10 (242).jpg</filename>
+	<path>C:\Users\Admin\Desktop\eczema\10 (242).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eczema</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>57</ymin>
+			<xmax>163</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

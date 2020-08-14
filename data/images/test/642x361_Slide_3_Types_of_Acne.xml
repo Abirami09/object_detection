@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>642x361_Slide_3_Types_of_Acne.jpg</filename>
+	<path>C:\Users\Admin\Desktop\a\642x361_Slide_3_Types_of_Acne.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>642</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>21</ymin>
+			<xmax>483</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

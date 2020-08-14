@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mel</folder>
+	<filename>ssm31__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDJd.jpg</filename>
+	<path>C:\Users\Admin\Desktop\mel\ssm31__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDJd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>21</ymin>
+			<xmax>225</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

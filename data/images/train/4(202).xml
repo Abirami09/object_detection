@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vi</folder>
+	<filename>4(202).jpg</filename>
+	<path>C:\Users\Admin\Desktop\vi\4(202).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>60</ymin>
+			<xmax>195</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

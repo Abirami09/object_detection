@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mel</folder>
+	<filename>original_44681-52e96b00f41524e8691b85d789facb83.jpg</filename>
+	<path>C:\Users\Admin\Desktop\mel\original_44681-52e96b00f41524e8691b85d789facb83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>584</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>179</ymin>
+			<xmax>394</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

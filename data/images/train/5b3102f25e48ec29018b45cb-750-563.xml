@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>5b3102f25e48ec29018b45cb-750-563.jpg</filename>
+	<path>C:\Users\Admin\Desktop\a\5b3102f25e48ec29018b45cb-750-563.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>112</ymin>
+			<xmax>499</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

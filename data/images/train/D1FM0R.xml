@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mel</folder>
+	<filename>D1FM0R.jpg</filename>
+	<path>C:\Users\Admin\Desktop\mel\D1FM0R.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>891</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>435</ymin>
+			<xmax>646</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

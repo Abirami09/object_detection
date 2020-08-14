@@ -1,0 +1,26 @@
+<annotation>
+	<folder>impetigo</folder>
+	<filename>21 (7).jpg</filename>
+	<path>C:\Users\Admin\Desktop\impetigo\21 (7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Impetigo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>155</ymin>
+			<xmax>622</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mel</folder>
+	<filename>P4MPGN.jpg</filename>
+	<path>C:\Users\Admin\Desktop\mel\P4MPGN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>89</ymin>
+			<xmax>858</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

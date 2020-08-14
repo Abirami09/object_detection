@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imp</folder>
+	<filename>5 (38).jpg</filename>
+	<path>C:\Users\Admin\Desktop\imp\5 (38).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Impetigo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>138</ymin>
+			<xmax>550</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

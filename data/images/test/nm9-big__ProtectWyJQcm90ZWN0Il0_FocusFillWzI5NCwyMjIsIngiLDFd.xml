@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mel</folder>
+	<filename>nm9-big__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg</filename>
+	<path>C:\Users\Admin\Desktop\mel\nm9-big__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDFd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>75</ymin>
+			<xmax>199</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dd</folder>
+	<filename>slide6-300x193.jpg</filename>
+	<path>C:\Users\Admin\Desktop\dd\slide6-300x193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acene</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>19</ymin>
+			<xmax>195</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>m</folder>
+	<filename>melanomaimage16b-large.jpg</filename>
+	<path>C:\Users\Admin\Desktop\m\melanomaimage16b-large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1344</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>345</ymin>
+			<xmax>861</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+</annotation>
